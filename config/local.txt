@@ -1,4 +1,85 @@
-# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
-# 支持设置白名单：接口后添加$!
-# The local source list, one line per source, format: channel name, interface address
-# Support setting whitelist: add $! after the interface
+日本QVC Japan，http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本购物2，http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本映画HD，http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+日-衛星劇場，http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+Z频道，http://pili-live-hdl.qhmywl.com:80/dsdtv/30a7edb2f6c42bd079dd4910806decde.m3u8
+AMC日舞，http://pili-live-hdl.qhmywl.com:80/dsdtv/40d0812307cd389be76c358de7f4913e.m3u8
+WaKaWaka Japan，http://pili-live-hdl.qhmywl.com:80/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
+韩国EBS第一频道，http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS第二频道，http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS儿童频道，http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS加二频道，http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBSi频道，http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国KCTV，http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国MBC综艺频道，http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国NBS农业广播，https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国SBS CJB，http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国阿里郎KOREA，http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国KCTV，http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+花花公子韩国，http://122.38.74.172:9981/stream/channelid/966306501.m3u8
+韩国娱乐台，http://pili-live-hdl.qhmywl.com:80/dsdtv/8ae61414f7e2972598956105e2e9969d.m3u8
+LIFE TIME，http://pili-live-hdl.qhmywl.com:80/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.m3u8
+韩国TV Chosun，http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+韩国CBS，http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+韩国KBS1，http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+韩国EBSeHD，http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国KTV，http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+韩国Chosun，http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+动物星球，http://pili-live-hdl.qhmywl.com:80/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
+Discovery科学，http://pili-live-hdl.qhmywl.com:80/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
+迪士尼频道，http://pili-live-hdl.qhmywl.com:80/dsdtv/198038b134ad459d9cc251038c74685a.m3u8
+梦工厂动画，http://pili-live-hdl.qhmywl.com:80/dsdtv/aae9c139f056e6c003448ba1e4908ee3.m3u8
+I-FUN动漫台，http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
+MTV HD，http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6461/index.m3u8
+KMTV，http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+Music Reload TV HD，http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+NBC 15 Madison WI (WMTVNBC)，https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8
+NBC 26 (WGBA)，https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+NBC TMJ4，https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+美国 30A TV，https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+美国 ABC 15，https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+美国 HTV 1 - Houston Television，https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+美国 KidsFlix，https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&amp;live=1&amp;app_bundle=com.plexapp.desktop
+美国 Las Vegas - 13 Action News，https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+美国 Mystery Science Theater 3000，https://mst3k-localnow.amagi.tv/playlist.m3u8
+美国 MyTime movie network (Brazil)，https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+美国 MyTime movie network (Spain)，https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+美国 Newsy，https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+美国 TD Ameritrade Network，https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+美国 红牛运动，http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美国Newsmax TV，http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+[美国]OAN Plus (1080p)，http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+[美国]OMLonRevry，https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+[美国]PAC 12 Insider (1080p)，https://pac12-samsungus.amagi.tv/playlist.m3u8
+[美国]WhitePlainsCommunityMedia[640*360][640*360]，http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+英国 Sky News Extra 1，https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+法国时尚，http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚，http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+乌克兰  M2 音乐频道，http://live.m2.tv/hls3/stream.m3u8
+乌克兰 24 Канал，http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+意大利 Canale 2 Altamura，https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+意大利 Elive Brescia TV，http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
+意大利 Euro Indie Music Chart TV，http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+意大利 Euro TV，https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+意大利 Iunior TV，https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+意大利 Reteveneta，https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
+意大利SuperTV，http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+哥斯达黎加 Extrema TV，http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+哥斯达黎加 TV Sur Canal 9，http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+加拿大The Shopping Channel，http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+德国 KulturMD，http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+德国 MDF.1，http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+德国 OK Dessau，http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+德国 OK Magdeburg，http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+德国 OK Merseburg-Querfurt，http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+德国 OK Salzwedel，http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+德国 OK Stendal，http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+德国 OK Stendal，http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+德国 OK Wernigerode，http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+德国 OK Wernigerode，http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+德国 PunktUM，http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+德国 Ran 1，http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+德国 RBW，http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+德国 RFH TV，http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+德国 Tide TV，https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+德国Baden TV，http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
