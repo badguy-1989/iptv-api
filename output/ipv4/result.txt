@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 18:17:53,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$本地源
+2025-12-11 18:16:31,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$本地源
 
 📺國際频道,#genre#
 日本QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$本地源
@@ -12,13 +12,14 @@
 韩国EBS儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8$本地源
 韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$本地源
 韩国EBSi频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$本地源
-韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8$本地源
-韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8$本地源
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8$本地源
 韩国KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8$本地源
 韩国MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$本地源
 韩国MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$本地源
 韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$本地源
 韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$本地源
+韩国SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$本地源
+韩国SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$本地源
 韩国阿里郎KOREA,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8$本地源
 韩国阿里郎KOREA,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8$本地源
 韩国KBS1,http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8$本地源
@@ -44,7 +45,8 @@ Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8$本
 [美国]OMLonRevry,https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8$本地源
 英国 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8$本地源
 英国 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8$本地源
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8$本地源
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$本地源
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$本地源
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8$本地源
 乌克兰  M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8$本地源
 乌克兰  M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8$本地源
@@ -64,6 +66,8 @@ Music Reload TV HD,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8$本
 意大利SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8$本地源
 哥斯达黎加 Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8$本地源
 哥斯达黎加 Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8$本地源
+哥斯达黎加 TV Sur Canal 9,http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8$本地源
+哥斯达黎加 TV Sur Canal 9,http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8$本地源
 加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8$本地源
 加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8$本地源
 德国 KulturMD,http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8$本地源

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/badguy-1989/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="日本QVC Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本QVC Japan.png" group-title="🕘️更新时间",2025-12-09 18:17:53
+#EXTINF:-1 tvg-name="日本QVC Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本QVC Japan.png" group-title="🕘️更新时间",2025-12-11 18:16:31
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$本地源
 #EXTINF:-1 tvg-name="日本QVC Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本QVC Japan.png" group-title="📺國際频道",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$本地源
@@ -22,9 +22,7 @@ http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3
 #EXTINF:-1 tvg-name="韩国EBSi频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国EBSi频道.png" group-title="📺國際频道",韩国EBSi频道
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$本地源
 #EXTINF:-1 tvg-name="韩国KCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国KCTV.png" group-title="📺國際频道",韩国KCTV
-http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8$本地源
-#EXTINF:-1 tvg-name="韩国KCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国KCTV.png" group-title="📺國際频道",韩国KCTV
-http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8$本地源
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8$本地源
 #EXTINF:-1 tvg-name="韩国KCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国KCTV.png" group-title="📺國際频道",韩国KCTV
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8$本地源
 #EXTINF:-1 tvg-name="韩国MBC综艺频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国MBC综艺频道.png" group-title="📺國際频道",韩国MBC综艺频道
@@ -35,6 +33,10 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$本地源
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$本地源
 #EXTINF:-1 tvg-name="韩国NBS农业广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国NBS农业广播.png" group-title="📺國際频道",韩国NBS农业广播
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$本地源
+#EXTINF:-1 tvg-name="韩国SBS CJB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国SBS CJB.png" group-title="📺國際频道",韩国SBS CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$本地源
+#EXTINF:-1 tvg-name="韩国SBS CJB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国SBS CJB.png" group-title="📺國際频道",韩国SBS CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$本地源
 #EXTINF:-1 tvg-name="韩国阿里郎KOREA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国阿里郎KOREA.png" group-title="📺國際频道",韩国阿里郎KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8$本地源
 #EXTINF:-1 tvg-name="韩国阿里郎KOREA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国阿里郎KOREA.png" group-title="📺國際频道",韩国阿里郎KOREA
@@ -86,7 +88,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 #EXTINF:-1 tvg-name="英国 Sky News Extra 1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/英国 Sky News Extra 1.png" group-title="📺國際频道",英国 Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8$本地源
 #EXTINF:-1 tvg-name="法国时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法国时尚.png" group-title="📺國際频道",法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8$本地源
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$本地源
+#EXTINF:-1 tvg-name="法国时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法国时尚.png" group-title="📺國際频道",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$本地源
 #EXTINF:-1 tvg-name="法国时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法国时尚.png" group-title="📺國際频道",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8$本地源
 #EXTINF:-1 tvg-name="乌克兰  M2 音乐频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乌克兰  M2 音乐频道.png" group-title="📺國際频道",乌克兰  M2 音乐频道
@@ -125,6 +129,10 @@ http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8$本地源
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8$本地源
 #EXTINF:-1 tvg-name="哥斯达黎加 Extrema TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哥斯达黎加 Extrema TV.png" group-title="📺國際频道",哥斯达黎加 Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8$本地源
+#EXTINF:-1 tvg-name="哥斯达黎加 TV Sur Canal 9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哥斯达黎加 TV Sur Canal 9.png" group-title="📺國際频道",哥斯达黎加 TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8$本地源
+#EXTINF:-1 tvg-name="哥斯达黎加 TV Sur Canal 9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哥斯达黎加 TV Sur Canal 9.png" group-title="📺國際频道",哥斯达黎加 TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8$本地源
 #EXTINF:-1 tvg-name="加拿大The Shopping Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/加拿大The Shopping Channel.png" group-title="📺國際频道",加拿大The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8$本地源
 #EXTINF:-1 tvg-name="加拿大The Shopping Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/加拿大The Shopping Channel.png" group-title="📺國際频道",加拿大The Shopping Channel
