@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/badguy-1989/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="日本QVC Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本QVC Japan.png" group-title="🕘️更新时间",2025-12-11 18:16:32
+#EXTINF:-1 tvg-name="日本QVC Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本QVC Japan.png" group-title="🕘️更新时间",2025-12-13 18:14:21
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8$本地源
 #EXTINF:-1 tvg-name="KMTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KMTV.png" group-title="📺國際频道",KMTV
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8$本地源
